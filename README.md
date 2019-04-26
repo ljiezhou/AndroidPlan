@@ -14,3 +14,4 @@
 2019年4月18日|反转字符串|[点击此处](interview/java/反转字符串.md)
 2019年4月24日|计算一个View的最大层数|[点击此处](interview/android/计算一个View的最大层数.md)
 2019年4月25日|shape文件泛滥|[点击此处](interview/android/shape文件泛滥.md)
+2019年4月26日|Android为什么要采用Binder|[点击此处](interview/android/Android为什么采用Binder.md)
