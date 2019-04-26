@@ -30,7 +30,9 @@ shape的基本属性（这里只选择四个常用的属性进行说明）：
 思路：
 在自定义控件中新建一个shape对应对类，然后再对shape中对每个属性进行设置即可。
 shape的使用场景中多是在TextView或者Button中设置背景。所以这里就用Button来做演示。  
-在写代码之前我需要知道，shape标签对应的是GradientDrawable类。只有拿到这个类我才可以对shape进行渲染。
+在写代码之前我需要知道，shape标签对应的是GradientDrawable类。只有拿到这个类我才可以对shape进行渲染。  
+先看效果
+![](picture/shape.png)
 ```
 //这篇文章的主题是shape，所以矩形用这种方式创建
 <com.zhou.demo.CommonShapeButton
