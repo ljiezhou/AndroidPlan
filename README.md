@@ -16,3 +16,4 @@
 2019年4月25日|shape文件泛滥|[点击此处](interview/android/shape文件泛滥.md)
 2019年4月26日|Android为什么要采用Binder|[点击此处](interview/android/Android为什么采用Binder.md)
 2019年4月28日|Activity A启动另一个Activity B会回调哪些方法？|[点击此处](interview/android/Activity A启动另一个Activity B会回调哪些方法？.md)
+2019年5月5日|RecyclerView卡顿分析|[点击此处](interview/android/RecyclerView卡顿分析.md)
